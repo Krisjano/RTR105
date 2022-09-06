@@ -5,4 +5,10 @@ studiju kursa Datormaciba (pamatkurss) elektroniska klade
   1. saraksts ar atsarpi
    - suns
      - kakis
-     - :dog: emoji
+     - :dog: emoji  
+1. James Madison
+2. James Monroe
+3. John Quincy Adams.  
+ - George Washington
+- John Adams
+- Thomas Jefferson
