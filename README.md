@@ -7,7 +7,7 @@ studiju kursa Datormaciba (pamatkurss) elektroniska klade
   
   1. saraksts ar atsarpi
    - **suns**
-     - kakis
+        -**kakis__
      - :dog: emoji  
 1. James Madison
 2. James Monroe
